@@ -1,5 +1,7 @@
 ---
 title: Demo - Reveal.js Slides
+author: hasp
+
 highlightTheme: github
 theme: moon
 
@@ -7,6 +9,7 @@ revealOptions:
   transition: convex
   parallaxBackgroundImage: "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg"
   parallaxBackgroundSize: "3200px 1400px"
+
 mermaid:
   info: mermaid settings not working (here)
   config:
