@@ -201,4 +201,7 @@ $$ J(\theta_0,\alpha_2) = \sum_{i=0}^{10} a_i $$
 
 ## Videos
 
+- might work with Typora
+- won't work on github
+
 <iframe width="962" height="541" src="https://www.youtube.com/embed/sByzHoiYFX0" title="Beginning Graphic Design: Typography" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe>
