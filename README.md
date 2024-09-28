@@ -1,6 +1,7 @@
 ---
 title: reveal-md slides
 author: hasp
+date: 20240929
 ---
 
 # tmpl-reveal-md
