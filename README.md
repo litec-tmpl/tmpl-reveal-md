@@ -61,7 +61,7 @@ Template / Introductory Repository to explain markdown slide creation with revea
 ### TODOs
 
 - consider to update `mermaid.min.js` every now and then
-  - atm version 10.9.0 is used
+  - atm version 11.1.1 is used
   - see/download [mermaid.min.js](https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.0/mermaid.min.js) from CDN
 - Improvement of `README.md` ... 😜
 - Add `reveal-md.json` and `.reveal`-folder to other templates
@@ -87,4 +87,5 @@ Template / Introductory Repository to explain markdown slide creation with revea
 1. **Settings Error**: add mermaid settings directly to diagram (as frontmatter)
 2. **Display error**: refresh the browser (`Ctrl+R`) for redraw
    - this needs the setting `"history": true` in `reveal-md.json`
-   - otherwise you start at slide one.- use Typora and vscode!
+   - otherwise you start at slide one.
+   - use Typora and vscode!
